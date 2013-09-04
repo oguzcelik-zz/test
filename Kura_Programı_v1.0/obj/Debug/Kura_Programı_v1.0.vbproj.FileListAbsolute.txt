@@ -1,0 +1,10 @@
+C:\Users\heavenskhan\Desktop\Kura_Programı_v1.0\Kura_Programı_v1.0\Kura_Programı_v1.0\Kura_Programı_v1.0\obj\Debug\Kura_Programı_v1.2.exe
+C:\Users\heavenskhan\Desktop\Kura_Programı_v1.0\Kura_Programı_v1.0\Kura_Programı_v1.0\Kura_Programı_v1.0\obj\Debug\Kura_Programı_v1.xml
+C:\Users\heavenskhan\Desktop\Kura_Programı_v1.0\Kura_Programı_v1.0\Kura_Programı_v1.0\Kura_Programı_v1.0\obj\Debug\Kura_Programı_v1.2.pdb
+C:\Users\heavenskhan\Desktop\Kura_Programı_v1.0\Kura_Programı_v1.0\Kura_Programı_v1.0\Kura_Programı_v1.0\bin\Debug\Kura_Programı_v1.2.exe
+C:\Users\heavenskhan\Desktop\Kura_Programı_v1.0\Kura_Programı_v1.0\Kura_Programı_v1.0\Kura_Programı_v1.0\bin\Debug\Kura_Programı_v1.2.pdb
+C:\Users\heavenskhan\Desktop\Kura_Programı_v1.0\Kura_Programı_v1.0\Kura_Programı_v1.0\Kura_Programı_v1.0\bin\Debug\Kura_Programı_v1.xml
+C:\Users\heavenskhan\Desktop\Kura_Programı_v1.0\Kura_Programı_v1.0\Kura_Programı_v1.0\Kura_Programı_v1.0\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\heavenskhan\Desktop\Kura_Programı_v1.0\Kura_Programı_v1.0\Kura_Programı_v1.0\Kura_Programı_v1.0\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\heavenskhan\Desktop\Kura_Programı_v1.0\Kura_Programı_v1.0\Kura_Programı_v1.0\Kura_Programı_v1.0\obj\Debug\Kura_Programı_v1.0.vbproj.GenerateResource.Cache
+C:\Users\heavenskhan\Desktop\Kura_Programı_v1.0\Kura_Programı_v1.0\Kura_Programı_v1.0\Kura_Programı_v1.0\obj\Debug\Kura_Programı_v1.0.vbproj.ResolveComReference.cache
