@@ -12,7 +12,7 @@ Public Class Form1
                 If yeni = "" Then
                     MsgBox("Lütfen Ýsim Giriniz", MsgBoxStyle.Information, "Dikkat")
                 Else
-                    ListBox1.Items.Add(yeni)
+                    ListBox1.Items.Add(yeni) //yeni item ekler
                 End If
                 TextBox1.Clear()
             Else
